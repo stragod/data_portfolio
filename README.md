@@ -10,7 +10,7 @@
 *Review the Data Insertion SQL Script:* **[HERE]()**<br />
 *Review the Data Exploration SQL Script:* **[HERE]()**<br />
 
-![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
+![Instagram Clone Dashboard](data visualization/InstagramCloneDashboard.png)
 
 
 
